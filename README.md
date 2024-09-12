@@ -8,6 +8,6 @@ and delete them when they are done
 ## Used Technologies
 
 Angular \
-Styling: CSS \
+Styling: CSS 
 
 It was a learning angular project ^\_^
