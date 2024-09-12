@@ -38,3 +38,7 @@ main {
     text-align: left;
   }
 }
+/* Customize Scrollbar */
+::-webkit-scrollbar {
+  display: none;
+}
